@@ -1,7 +1,6 @@
 import customtkinter as ctk
-import threading, queue, os
+import threading, queue
 from settings import *
-from binary import encode, decode, compare_files
 
 class Panel(ctk.CTkFrame):
     def __init__(self, parent):
