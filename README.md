@@ -4,7 +4,7 @@ BitTube is a Python application that converts files to binary black and white pi
 
 ## The Idea
 
-YouTube allows for 256GB uploads with unlimited posts, completely free of cost. If users can encode their data as .mp4 files, they could use YouTube as a means of backing up whatever files they want. At 4K 60FPS, a 1-second video can hold up to 62 million characters if each pixel represents a bit. 
+YouTube allows for 256GB uploads with unlimited posts, completely free of cost. If users can encode their data as .mp4 files, they could use YouTube as a means of backing up whatever files they want. At 4K 60FPS, a 1-second video can hold up to 62 million characters given each pixel represents a bit. 
 
 ## Installation
 
